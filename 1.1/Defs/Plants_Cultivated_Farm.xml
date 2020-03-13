@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThingDef ParentName="CavePlantBase">
+		<defName>Plant_KnotRoot</defName>
+		<label>knot root</label>
+		<description>A thickly knotted root that only growns naturally underground. It can be cultivated but dies in daylight. It can be harvested and used as wood replacement.</description>
+		<statBases>
+			<MaxHitPoints>45</MaxHitPoints>
+      <Nutrition>0.08</Nutrition>
+		</statBases>
+		<graphicData>
+			<texPath>Things/Plant/KnotRootPlant</texPath>
+			<graphicClass>Graphic_Random</graphicClass>
+		</graphicData>
+		<selectable>true</selectable>
+		<pathCost>40</pathCost>
+    <ingestible />
+		<plant>
+			<fertilityMin>0.01</fertilityMin>
+			<fertilitySensitivity>0.15</fertilitySensitivity>
+			<dieIfLeafless>true</dieIfLeafless>
+			<maxMeshCount>4</maxMeshCount>
+			<harvestTag>Standard</harvestTag>
+			<harvestedThingDef>WoodLog</harvestedThingDef>
+			<harvestYield>4</harvestYield>
+			<sowWork>120</sowWork>
+			<harvestWork>320</harvestWork>
+			<sowTags>
+				<li>Ground</li>
+			</sowTags>
+			<topWindExposure>0.1</topWindExposure>
+			<growDays>3.5</growDays>
+			<visualSizeRange>0.3~1.0</visualSizeRange>
+      <wildOrder>2</wildOrder>
+		</plant>
+	</ThingDef>
+</Defs>
