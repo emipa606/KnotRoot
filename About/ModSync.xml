@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>4cebd152-2a44-450e-95b1-44e80fd79a44</ID>
   <ModName>Knot Root (Continued)</ModName>
-  <Version>1.5.0</Version>
+  <Version>1.6.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,3 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+
