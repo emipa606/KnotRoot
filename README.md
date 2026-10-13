@@ -27,4 +27,4 @@ Perfect for cave dwelling tribal colony.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/KnotRoot?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2018961250) | tags: cave farming
+[![Image](https://img.shields.io/github/v/release/emipa606/KnotRoot?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2018961250) | cave farming
